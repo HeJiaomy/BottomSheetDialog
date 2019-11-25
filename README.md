@@ -1,5 +1,1 @@
-Android Animation Samples Repository
-====================================
-
-This repository contains a set of individual Android Studio projects to help you get
-started writing/understanding Android animation features.
+![](https://github.com/HeJiaomy/BottomSheetDialog/blob/master/BottomSheetDialog/m915v-sr7s3.gif)
